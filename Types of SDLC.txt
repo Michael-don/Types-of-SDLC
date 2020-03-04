@@ -1,0 +1,92 @@
+Advantages and Disadvantages of SDLC Methodlogy
+
+Waterfall Model
+Waterfall methodology refers to a linear sequence of stages to with a specified sequence to let the users understand
+that further level is made progressive on completion of the previous one. 
+Moreover,this methodology also talks about the fact that going back to deal with the changes is not possible.
+
+Advantages:
+1.Easy to understand and functional
+2.Simple enough to handle as model is rigid
+3.Saves significant amount of time
+4.Allows for easy testing and analysis
+
+Disadvantages:
+1.Only matches precise needs
+2.Not applicable for maintenance projects
+3.No option to know possible outcome of a project
+4.Not excellent for long and ongoing projects
+
+Prototype Methodology
+It is a specialized software development procedure that initiates developers towards
+making only the sample of the resolution to validate its functional essence to the
+customers and make essential changes before creating the authentic final solution.
+
+Advantages:
+1.Gives clear idea about the functional process of the software
+2.Reduces the risk of failure in a software functionality
+3.Assists well in requirement gathering and the overall analysis
+
+Disadvantages:
+1.Chances of extension in management cost
+2.Excessive involvement of client can affect processing
+3.Too many changes affect the workflow of the software
+
+Spiral Methodology
+Spiral Model is considered to be one of the best Software Development Life Cycle methodologies
+for a large and complex project. It is an amalgamation of the two methodologies Waterfall Model and Prototyping Model.
+
+Advantages:
+1. The spiral model is known for its flexibility as changes can be made on the later stage of the project 
+2. It is one the Software Development Life Cycle Methodologies that helps in mitigating the risk by analyzing and solving it beforehand 
+3. Clients are connected with the development team and project as they share the requirements and feedbacks of each phase 
+4. It is suitable for long-term and complex projects
+
+Disadvantages:
+1. Requires high risk-analysing expertise 
+2. The project takes a significantly long time to develop, increasing the overall expense of the project 
+3. It is complex to understand and implement 
+4. Since the number of iteration are unknown, the time required to complete the project remains a mystery
+
+Dynamic Systems Development Methodology
+DSDM is an iterative methodology that focuses on continuous user involvement
+along with developing it on budget and within the allotted time constraint. 
+
+Advantages:
+1. Adheres to budget and time of the project 
+2. Clients and end-users stay updated with the development 
+3. It is quite flexible to the changes
+
+Disadvantages:
+1. Just like RAD, it requires high technical as well as business expertise 
+2. It is of no use without proper user involvement 
+3. This methodology is uncommon making it hard to understand and implement
+
+Agile Software Development
+Agile encourages building the project progressively rather than holistically.
+It follows the time-bound and iterative approach that builds software incrementally by updating and delivering small chunks instead of trying to deliver all at once.
+This incremental development is time-bound and the time period can be between a week to a month.
+
+Advantages:
+1. Highly adaptable to changes according to client and situation 
+2. Clients and customers are in direct communication providing transparency in the development process 
+3. Agile methodology mitigates the risks by updating the software with each iteration 
+
+Disadvantages:
+1. No adequate documentation as the methodology deals with the functionality of the software 
+2. At times, it can go off track due to less focus on planning
+
+Rapid Application Development
+Rapid Application Devlopment is an SDLC methodology to accelerate the development with rapid prototyping of the product. 
+It is an iterative model that focuses more on functional software and prototyping and less on planning. 
+
+Advantages:
+1. Tasks become easy and achievable by modularizing the project 
+2. The functional model of the  product can be reviewed at an early stage 
+3. The user remains in the loop while the development and provides feedback
+
+Disadvantages:
+1. Requires highly skilled designers and developers with forte in the application area 
+2. Highly dependent on a strong team. 
+3. It would work best only with the systems and projects that can be divided into small chunks 
+4. RAD is highly expensive and is not recommended for small budget projects
